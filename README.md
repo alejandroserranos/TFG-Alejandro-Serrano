@@ -28,7 +28,7 @@ Además de los archivos en Dafny, se incluyen dos scripts en Python generados au
   - BinarySearchItP1.py: versión iterativa de búsqueda binaria generada a partir del Prompt 1.
   - SumABP1.py: función de suma de los elementos de un Árbol Binario con especificación, también generada con Prompt 1.
 
-COMO USAR LOS CÓDIGOS:
+CÓMO USAR LOS CÓDIGOS:
 
 Para trabajar con los archivos .dfy se ha utilizado Visual Studio Code, junto con la extensión oficial de Dafny (versión recomendada: v3.4.4 o superior (incluye el verificador Z3)).
 Una vez instalada la extensión, basta con abrir un archivo .dfy en VS Code y Dafny verificará automáticamente el código al guardarlo (Ctrl+S).
