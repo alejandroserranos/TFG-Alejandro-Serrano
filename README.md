@@ -6,18 +6,18 @@ ESTRUCTURA DEL REPOSITORIO:
 
 Este repositorio se estructura de la siguiente forma:
 - Códigos TFG
-    2.2. Ejemplo Dafny
-    4.1. Ejemplos Iniciales
-        4.1.1. Verificación Simple
-        4.1.2. División entera (versión iterativa)
-        4.1.3. División entera (versión recursiva)
-        4.1.4. Logaritmo entero
-    4.3. Búsqueda Binaria
-    4.4. Suma de Picos
-    4.5. Algoritmos de Ordenación
-        4.5.1. Ordenación por Selección (Selection Sort)
-        4.5.2. Ordenación por Mezclas (Mergesort)
-    4.6. Recursión sobre Árboles Binarios
+  - 2.2. Ejemplo Dafny
+  - 4.1. Ejemplos Iniciales
+    - 4.1.1. Verificación Simple
+    - 4.1.2. División entera (versión iterativa)
+    - 4.1.3. División entera (versión recursiva)
+    - 4.1.4. Logaritmo entero
+ - 4.3. Búsqueda Binaria
+ - 4.4. Suma de Picos
+ - 4.5. Algoritmos de Ordenación
+    - 4.5.1. Ordenación por Selección (Selection Sort)
+    - 4.5.2. Ordenación por Mezclas (Mergesort)
+ - 4.6. Recursión sobre Árboles Binarios
 - README.md
 
 CONTENIDO:
